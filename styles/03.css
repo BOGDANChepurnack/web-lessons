@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap%27');
+*{
+    font-family: 'Roboto' , sans-serif;
+}
+h1{
+    color: #000;
+    font-size: 22px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+h2{
+    color: #000;
+    font-size: 20px;
+    font-weight: bold;
+}
+p, ul{
+    color: #666;
+    font-size: 14px;
+}
+span{
+    color: #c7254e;
+    background-color: #f9f2f4;
+    border-radius: 4px;
+}
+h3{
+    color: #000;
+    font-weight: bold;
+}
+h4{
+    color: #666;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 600;
+}
+div{
+    width: 600;
+    padding: 10px;
+    background-color: lightgray;
+    border-radius: 5px;
+}
+.size{
+    font-size: 20px;
+}
+.bold{
+    font-weight: bold;
+    background: none;
+    color: #666;
+}
+.thin{
+    font-weight: 100;
+    background: none;
+    color: #666;
+}
+.max{
+    font-weight: 900;
+    background: none;
+    color: #666;
+}
+.norm{
+    font-style: normal;
+    background: none;
+    color: #666;
+}
+.cur{
+    font-style: italic;
+    background: none;
+    color: #666;
+}
+.def{
+    font-family: "Georgia", Serif;
+    background: none;
+    color: #666;
+}
+.gen{
+    font-family: serif;
+    background: none;
+    color: #666;
+}
+.col{
+    background: none;
+    color: #9900ff
+}
+.th{
+    text-decoration: line-through;
+    background: none;
+    color: #666;
+}
+.ov{
+    text-decoration: overline;
+    background: none;
+    color: #666;
+}
+.un{
+    text-decoration: underline;
+    background: none;
+    color: #666;
+}
+.none{
+    text-decoration: none;
+    background: none;
+    color: #666;
+}
+.cap{
+    text-transform: capitalize;
+    background: none;
+    color: #666;
+}
+.low{
+    text-transform: lowercase;
+    background: none;
+    color: #666;
+}
+.up{
+    text-transform: uppercase;
+    background: none;
+    color: #666;
+}
+.no{
+    text-transform: none;
+    background: none;
+    color: #666;
+}
