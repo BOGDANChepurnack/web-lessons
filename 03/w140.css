@@ -1,0 +1,121 @@
+p {
+	color: red;
+}
+p1 {
+	color: rgb(255, 236, 114);
+}
+p2 {
+	color: #ff0000;
+}
+p3 {
+	text-align: right;
+}
+h2 {
+	font-weight: normal;
+}
+p4 {
+	font-weight: bold;
+}
+p5 {
+	font-style: italic;
+}
+p6 {
+	font-size: 30px;
+}
+p7 {
+	font-family: Arial;
+}
+p8 {
+	font-family: "Comic Sans MS";
+}
+p9 {
+	font-size: 20px;
+	line-height: 50px;
+	text-align: justify;
+	width: 400px;
+}
+p {
+	font-size: 16px;
+	font-family: Arial;
+}
+p {
+	font: 16px Arial;
+}
+p {
+	font-size: 16px;
+	font-family: Arial;
+	line-height: 50px;
+}
+p {
+	font: 16px/50px Arial;
+}
+p {
+	font-size: 16px;
+	font-family: Arial;
+	font-weight: bold;
+	line-height: 50px;
+	font-style: italic;
+}
+p {
+	font: bold italic 16px/50px Arial;
+}
+p {
+	text-indent: 50px;
+	text-align: justify;
+	width: 400px;
+}
+p {
+	text-decoration: underline;
+}
+p {
+	text-decoration: overline;
+}
+#elem {
+	width: 300px;
+	height: 100px;
+	color: white;
+	background-color: orange; /* задаем оранжевый цвет фона */
+}
+#elem {
+	border-width: 3px;    /* толщина 3px */
+	border-style: solid;  /* в виде линии */
+	border-color: red;    /* красный цвет */
+	width: 300px;
+	height: 100px;
+}
+#elem2 {
+	width: 200px;
+	height: 200px;
+	border: 1px solid red;
+	border-radius: 50%;
+}
+#elem {
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+	width: 300px;
+	height: 100px;
+}
+#elem3 {
+	width: 300px;
+	height: 100px;
+	border-left: 1px solid red;
+}
+#elem4 {
+	width: 300px;
+	height: 100px;
+	border-left: 1px solid red;
+	border-right: 1px solid red;
+}
+#elem5 {
+	width: 300px;
+	height: 100px;
+	border: 1px solid red;
+	border-radius: 10px 20px 30px 40px;
+}
+#elem6 {
+	width: 200px;
+	height: 200px;
+	border: 1px solid red;
+	border-radius: 10%;
+}
